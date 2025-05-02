@@ -50,7 +50,6 @@ document.addEventListener('DOMContentLoaded', async function() {
             backgroundElement.classList.remove('youtube-active');
             backgroundElement.classList.add('images-active');
     
-            // iframe'i görünmez yap
             if (iframe) {
                 iframe.style.opacity = '0';
             }
@@ -65,7 +64,6 @@ document.addEventListener('DOMContentLoaded', async function() {
     
             clearInterval(bgInterval);
     
-            // iframe src tekrar atanırsa gerekirse yeniden başlat
             if (iframe && config.youtubeVideo) {
                 iframe.style.opacity = '1';
                 iframe.src = `https://www.youtube.com/embed/${config.youtubeVideo}?autoplay=1&mute=1&controls=0&showinfo=0&loop=1&playlist=${config.youtubeVideo}&disablekb=1&modestbranding=1&iv_load_policy=3`;
