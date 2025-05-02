@@ -1,0 +1,95 @@
+{
+    "serverName": "Baran",
+    "serverSlogan": "Loading Screen",
+    "youtubeVideo": "ioOqxSZb3vI",
+
+    "backgroundImages": [
+        "img/backgrounds/bg1.jpg", 
+        "img/backgrounds/bg2.jpg", 
+        "img/backgrounds/bg3.jpg", 
+        "img/backgrounds/bg4.jpg", 
+        "img/backgrounds/bg5.jpg"
+    ],
+    
+    
+    "socialLinks": [
+        {
+            "name": "Discord",
+            "icon": "discord",
+            "text": "Discord sunucumuza katılın ve toplulukla etkileşime geçin."
+        },
+        {
+            "name": "Instagram",
+            "icon": "instagram",
+            "text": "Instagram sayfamızı takip edin, en güncel duyurulara ulaşın."
+        },
+        {
+            "name": "YouTube",
+            "icon": "youtube",
+            "text": "YouTube kanalımıza abone olun, içerik ve rehberlerimizi kaçırmayın."
+        }
+    ],
+    
+    "announcement": {
+        "title": "Sunucu Güncellemesi",
+        "text": "Son güncellememiz ile birçok yeni özellik eklendi. Detaylı bilgi Discord'da!"
+    },
+    
+    "teamMembers": [
+        {
+            "name": "Admin 1",
+            "avatar": "img/team/admin1.jpg"
+        },
+        {
+            "name": "Admin 2",
+            "avatar": "img/team/admin2.jpg"
+        },
+        {
+            "name": "Admin 3",
+            "avatar": "img/team/admin3.jpg"
+        },
+        {
+            "name": "Admin 4",
+            "avatar": "img/team/admin4.jpg"
+        }
+    ],
+    
+    "songs": [
+        {
+            "title": "ŞARKI 1 BURAYI EDITLE",
+            "artist": "Baran",
+            "file": "music/music1.mp3",
+            "cover": "img/covers/music1.jpg"
+        },
+        {
+            "title": "ŞARKI 2 BURAYI EDITLE",
+            "artist": "Baran",
+            "file": "music/music2.mp3",
+            "cover": "img/covers/music2.jpg"
+        }
+    ],
+    
+    "galleryImages": [
+        "img/gallery/image1.jpg",
+        "img/gallery/image2.jpg",
+        "img/gallery/image3.jpg",
+        "img/gallery/image4.jpg",
+        "img/gallery/image5.jpg",
+        "img/gallery/image6.jpg"
+    ],
+    
+    "serverRules": [
+        {
+            "title": "Kural 1",
+            "text": "Diğer oyunculara saygılı olun. Hakaret, aşağılama ve rahatsız edici davranışlar yasaktır."
+        },
+        {
+            "title": "Kural 2",
+            "text": "Hile, mod menüsü ve haksız avantaj sağlayacak yazılım kullanımı kalıcı ban sebebidir."
+        },
+        {
+            "title": "Kural 3",
+            "text": "Hile, mod menüsü ve haksız avantaj sağlayacak yazılım kullanımı kalıcı ban sebebidir."
+        }
+    ]
+}
